@@ -1,2 +1,2 @@
-# git-exercise-
-Git exercise 
+# Git Exercise
+Author: Jessica Terrill
